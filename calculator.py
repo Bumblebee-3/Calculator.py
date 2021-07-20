@@ -82,3 +82,6 @@ ce.grid(row=4,column=0)# clear all
 
 
 gui.mainloop()
+
+
+#Coded By Bumblebee
